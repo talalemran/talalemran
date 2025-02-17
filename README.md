@@ -4,19 +4,14 @@ Hi 👋, my name is Talal Emran. I'm a web designer and photographer. I have bee
 My name is Talal Emran, I'm a web designer and developer based in Ottawa, Canada. you are here because you want more about me and my interstes.
 ## My Interests
 Read and discuss the world history is my one of my favorite interests. Also, I collect stamps and coins for most of the world countries. I like to watch the soccer games.
+## Skills
+<img src="img/html-5.svg" width="35"/> <img src="img/html-5.svg" width="35"/> <img src="img/html-5.svg" width="35"/> <img src="img/html-5.svg" width="35"/> <img src="img/html-5.svg" width="35"/> <img src="img/html-5.svg" width="35"/>
 ## Education
 - Computer Operation: Syrian Institution - 1994
 - MS Word, Excel, Access: Almamoon Institution - 1997
 - Interactive Multimedia Program: Algonquin College - 2008
 - HTML, CSS, JavaScript: Sololearn - 20221
-## Skills
-- HTML
-- CSS
-- Javascript
-- Wordpress
-- Adobe Photoshop
-- DSLR Photography
-- Digital Marketing
+
 ## Working
 - Most Logic Studio 2008 - Now
 ## My Blog posts
