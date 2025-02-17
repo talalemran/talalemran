@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**talalemran/talalemran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Web Designer, developer, Graphic Designer and Photographer.
+Hi 👋, my name is Talal Emran. I'm a web designer and photographer. I have been doing website development for more than 10 years.
+## Who am I
+My name is Talal Emran, I'm a web designer and developer based in Ottawa, Canada. you are here because you want more about me and my interstes.
+## My Interests
+Read and discuss the world history is my one of my favorite interests. Also, I collect stamps and coins for most of the world countries. I like to watch the soccer games.
+## Education
+- Computer Operation: Syrian Institution - 1994
+- MS Word, Excel, Access: Almamoon Institution - 1997
+- Interactive Multimedia Program: Algonquin College - 2008
+- HTML, CSS, JavaScript: Sololearn - 20221
+## Skills
+- HTML
+- CSS
+- Javascript
+- Wordpress
+- Adobe Photoshop
+- DSLR Photography
+- Digital Marketing
+## Working
+- Most Logic Studio 2008 - Now
