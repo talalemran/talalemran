@@ -17,4 +17,5 @@ Read and discuss the world history is my one of my favorite interests. Also, I c
 ## Working
 - Most Logic Studio 2008 - Now
 ## My Blog posts
+- <a href="https://www.talalemran.com/blog/vs-ode-extensions" target="_blank">VS code Extensions I Use 📄</a>
 - <a href="https://www.talalemran.com/blog/hello-world" target="_blank">Hello World! 👋</a>
