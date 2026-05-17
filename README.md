@@ -14,7 +14,7 @@ Read and discuss the world history is my one of my favorite interests. Also, I c
 - Computer Operation: Syrian Institution - 1994
 - MS Word, Excel, Access: Almamoon Institution - 1997
 - Interactive Multimedia Program: Algonquin College - 2008
-- HTML, CSS, JavaScript: Sololearn - 20221
+- HTML, CSS, JavaScript: Sololearn - 2021
 
 ## Working
 - Most Logic Studio 2008 - Now
