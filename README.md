@@ -4,6 +4,7 @@ Hi 👋, my name is Talal Emran. I'm a web designer and photographer. I have bee
 My name is Talal Emran, I'm a web designer and developer based in Ottawa, Canada. you are here because you want more about me and my interstes.
 ## my Personal Websites
 My personal Website: <a href="https://www.talalemran.com/" target="_blank">Talal Emran</a>
+
 Open source news Website: <a href="https://www.masdarx.com/" target="_blank">مصدر إكس</a>
 ## My Profisional Website
 My profisional Website: <a href="https://www.mostlogicstudio.com/" target="_blank">Most Logic Studio</a>
